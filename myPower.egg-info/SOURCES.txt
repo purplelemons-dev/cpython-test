@@ -1,0 +1,6 @@
+setup.py
+myPower.egg-info/PKG-INFO
+myPower.egg-info/SOURCES.txt
+myPower.egg-info/dependency_links.txt
+myPower.egg-info/top_level.txt
+src/power.c
