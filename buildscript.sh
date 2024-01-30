@@ -4,6 +4,6 @@
 rm -rf build/*
 pip uninstall -y myPower
 # build
-python setup.py build_ext --inplace
+python setup.py build
 # install
 #pip install dist/*.tar.gz

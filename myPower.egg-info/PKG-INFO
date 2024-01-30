@@ -1,3 +1,11 @@
 Metadata-Version: 2.1
 Name: myPower
-Version: 1.0
+Version: 0.2.0
+Author: PurpleLemons
+License: GLPv3
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires: setuptools
+Requires: wheel
+Requires: Cython
+Requires-Python: >=3.11.1

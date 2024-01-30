@@ -1,7 +1,0 @@
-pyproject.toml
-setup.py
-src/power.c
-src/myPower.egg-info/PKG-INFO
-src/myPower.egg-info/SOURCES.txt
-src/myPower.egg-info/dependency_links.txt
-src/myPower.egg-info/top_level.txt

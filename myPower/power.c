@@ -28,12 +28,12 @@ static PyMethodDef PowerMethods[] = {
 
 static struct PyModuleDef powermodule = {
     PyModuleDef_HEAD_INIT,
-    "myPower",
+    "power",
     "A module for doing the thing.",
     -1,
     PowerMethods
 };
 
-PyMODINIT_FUNC PyInit_myPower(void) {
+PyMODINIT_FUNC PyInit_power(void) {
     return PyModule_Create(&powermodule);
 }
